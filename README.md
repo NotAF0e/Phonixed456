@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming and computer
 Stuff
 - 🌱 I’m currently learning python
-- 📫 Mail on pawel.xbox123@gmail.com
+- 📫 Mail on pawel.zdunowski123@gmail.com
